@@ -186,7 +186,7 @@
       "title": "客戶服務應對話術",
       "author": "@happycoder",
       "content": "請協助設計客戶服務應對話術：\n\n情境類型：[產品問題/服務抱怨/退換貨等]\n客戶情緒：[生氣/失望/焦慮等]\n問題描述：[輸入具體狀況]\n\n話術設計需包含：\n1. 同理心表達開場\n2. 問題確認與澄清\n3. 道歉與承擔責任（適當時）\n4. 解決方案提供\n5. 補償方案（必要時）\n6. 確認客戶滿意度\n7. 感謝與關係修復\n8. 後續追蹤承諾\n\n請提供：\n- 標準應對腳本\n- 進階處理技巧\n- 地雷字詞提醒\n- 情緒安撫策略",
-      "tags": ["Customer Service", "客戶服務"],
+      "tags": ["CustomerService", "客戶服務"],
       "link": "https://www.happycoder.org/resources/prompts",
       "createdAt": "2026-01-15T20:00:00Z"
     },
@@ -195,7 +195,7 @@
       "title": "客服知識庫建立",
       "author": "@happycoder",
       "content": "請協助建立客服知識庫：\n\n產品/服務：[輸入名稱]\n主要客群：[輸入客戶類型]\n常見問題類型：[輸入問題分類]\n\n知識庫架構需包含：\n1. 問題分類架構（產品/帳務/技術/政策等）\n2. 前 20 個常見問題（FAQ）\n3. 每個問題的標準答案\n4. 相關問題連結\n5. 搜尋關鍵字設定\n6. 圖文說明（必要時）\n7. 問題解決步驟（SOP）\n8. 進階支援轉介條件\n9. 更新維護機制\n10. 客服人員快速查找指南\n11. 自助服務設計\n12. 知識庫使用教育訓練",
-      "tags": ["Customer Service", "客戶服務"],
+      "tags": ["CustomerService", "客戶服務"],
       "link": "https://www.happycoder.org/resources/prompts",
       "createdAt": "2026-01-15T20:30:00Z"
     },
@@ -204,7 +204,7 @@
       "title": "客戶滿意度調查設計",
       "author": "@happycoder",
       "content": "請協助設計客戶滿意度調查：\n\n調查目的：[服務改善/產品優化等]\n調查對象：[輸入客戶類型]\n調查方式：[線上/電話/Email 等]\n調查時機：[購買後/服務後/定期等]\n\n問卷設計需包含：\n1. 基本資訊收集\n2. 整體滿意度評分（NPS/CSAT）\n3. 各面向滿意度（產品/服務/價格等）\n4. 開放式意見收集\n5. 改善建議徵詢\n6. 推薦意願調查\n7. 人口統計資訊（選填）\n\n並提供：\n- 問卷流程設計\n- 題目數量建議（不超過 10 題）\n- 回覆率提升技巧\n- 數據分析框架\n- 後續行動計畫",
-      "tags": ["Customer Service", "客戶服務"],
+      "tags": ["CustomerService", "客戶服務"],
       "link": "https://www.happycoder.org/resources/prompts",
       "createdAt": "2026-01-15T21:00:00Z"
     },
@@ -213,7 +213,7 @@
       "title": "客服績效指標設定",
       "author": "@happycoder",
       "content": "請協助設定客服績效指標：\n\n客服類型：[電話/線上/郵件/現場等]\n團隊規模：[輸入人數]\n服務特性：[B2B/B2C/技術支援等]\n改善重點：[輸入目標]\n\n指標體系需包含：\n1. 效率指標\n   - 平均處理時間（AHT）\n   - 首次聯繫解決率（FCR）\n   - 服務水平（電話接聽率）\n2. 品質指標\n   - 客戶滿意度（CSAT）\n   - 淨推薦值（NPS）\n   - 品質監控分數\n3. 生產力指標\n   - 處理量\n   - 在線時間利用率\n4. 個人發展指標\n5. 目標值設定建議\n6. 數據收集方式\n7. 績效儀表板設計\n8. 獎勵機制建議",
-      "tags": ["Customer Service", "客戶服務"],
+      "tags": ["CustomerService", "客戶服務"],
       "link": "https://www.happycoder.org/resources/prompts",
       "createdAt": "2026-01-15T21:30:00Z"
     },
@@ -222,7 +222,7 @@
       "title": "客服自動化規劃",
       "author": "@happycoder",
       "content": "請協助規劃客服自動化方案：\n\n現有痛點：[輸入問題]\n服務管道：[網站/App/LINE/FB 等]\n自動化目標：[輸入期望]\n預算範圍：[輸入預算]\n\n規劃需包含：\n1. 自動化機會評估\n2. 適合自動化的問題類型\n3. 聊天機器人對話流程設計\n4. 常見問題自動回覆設定\n5. 人工介入觸發條件\n6. 知識庫整合\n7. 多管道整合策略\n8. 實施優先順序\n9. 技術方案建議\n10. 成效評估指標\n11. 人力配置調整建議\n12. 持續優化機制\n\n並分析預期節省成本和改善效率",
-      "tags": ["Customer Service", "客戶服務"],
+      "tags": ["CustomerService", "客戶服務"],
       "link": "https://www.happycoder.org/resources/prompts",
       "createdAt": "2026-01-15T22:00:00Z"
     },
