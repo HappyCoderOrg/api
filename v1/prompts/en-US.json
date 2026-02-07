@@ -1,0 +1,455 @@
+{
+  "version": "1.0.3",
+  "items": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "title": "Social Media Copywriting",
+      "author": "@happycoder",
+      "content": "# Role\nYou are a senior social media marketing expert, skilled at writing high-engagement social media copy and deeply understanding platform characteristics and audience psychology.\n\n# Task\nWrite 3 different styles of social media copy for a specified product/service to help the brand increase exposure and engagement rates.\n\n# Context\nProduct/Service: [Input product or service]\nTarget Audience: [Input target audience, e.g., age, interests, pain points]\nPlatform: [Facebook/Instagram/LinkedIn/X, etc.]\nBrand Tone: [Input brand style, e.g., professional/energetic/warm, etc.]\nMarketing Goals: [Increase awareness/boost sales/increase engagement, etc.]\n\n# Output Format\nPlease provide 3 versions of copy, each including:\n1. **Copy Body** (50-150 words, adjusted per platform)\n2. **Recommended Hashtags** (3-5, including brand and trending tags)\n3. **Call to Action (CTA)** (Clear and attractive)\n4. **Visual Suggestions** (Image or video style to match)\n5. **Posting Timing Suggestions** (Best time slots for posting)\n\nPlease ensure the copy fits the platform characteristics, attracts the target audience, and triggers engagement.",
+      "tags": ["Marketing"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T10:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "title": "Marketing Campaign Proposal",
+      "author": "@happycoder",
+      "content": "# Role\nYou are a senior marketing planning expert with extensive experience in integrated marketing campaign planning, specializing in formulating complete marketing strategies and execution plans.\n\n# Task\nWrite a professional and executable marketing campaign proposal covering strategic planning, execution details, and performance evaluation.\n\n# Context\nCampaign Theme: [Input campaign theme and core appeal]\nTarget Audience: [Input audience profile, including demographics and behavioral traits]\nCampaign Period: [Input start and end dates]\nBudget Range: [Input total budget amount]\nIndustry: [Input industry]\nCompetitive Environment: [Input major competitors or market status]\n\n# Output Format\nPlease provide a complete proposal including the following sections:\n\n**1. Executive Summary**\n- Campaign background and objectives\n- Core appeal and theme positioning\n\n**2. Goal Setting**\n- Specific quantitative goals (SMART principle)\n- Expected results and KPI indicators\n\n**3. Target Audience Analysis**\n- TA profile and insights\n- Pain points and needs analysis\n\n**4. Marketing Strategy**\n- Core strategy and differentiation positioning\n- Creative concept and execution main line\n\n**5. Execution Plan**\n- Marketing activities planning for each stage\n- Channel and media mix (Online + Offline)\n- Content marketing plan\n\n**6. Budget Allocation**\n- Detailed budget table for each item\n- Cost-benefit analysis\n\n**7. Timeline Planning**\n- Gantt chart or milestone schedule\n- Key nodes and responsible parties\n\n**8. Risk Management**\n- Potential risk identification\n- Contingency plans and backups\n\n**9. Performance Evaluation**\n- Evaluation metrics and measurement methods\n- Data tracking mechanism",
+      "tags": ["Marketing"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T10:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "title": "SEO Content Optimization Suggestions",
+      "author": "@happycoder",
+      "content": "# Role\nYou are an SEO optimization expert, proficient in search engine algorithms and content optimization strategies, capable of providing practical and effective SEO improvement suggestions.\n\n# Task\nConduct a comprehensive SEO analysis for the provided content and provide specific, actionable optimization suggestions to improve search rankings and organic traffic.\n\n# Context\n**Target Keyword**: [Input primary keyword]\n**Secondary Keywords**: [Input 3-5 related keywords]\n**Target Audience**: [Input target reader characteristics]\n**Content Type**: [Blog post/Product page/Category page, etc.]\n**Competition Level**: [High/Medium/Low]\n\n**Existing Content**:\n[Paste full article or webpage content]\n\n# Output Format\nPlease provide the following complete analysis report:\n\n**1. SEO Health Check Summary**\n- Current SEO score (0-100)\n- Primary issue points\n- Optimization priority\n\n**2. Keyword Optimization**\n- Primary keyword density analysis (Current vs. Suggested)\n- Keyword distribution suggestions (Title, first paragraph, body)\n- LSI semantic related keyword supplements (10-15 keywords)\n\n**3. Title Tag Optimization**\n- H1 optimization suggestions (Include keywords, attract clicks)\n- H2-H3 structure adjustment suggestions\n- Before and after comparison\n\n**4. Meta Information Optimization**\n- Title Tag (50-60 characters, include keywords)\n- Meta Description (150-160 characters, include CTA)\n- Provide 3 versions to choose from\n\n**5. Content Structure Optimization**\n- Paragraph structure improvement suggestions\n- Directions for content enrichment\n- User experience optimization (Readability, visual elements)\n\n**6. Internal Linking Strategy**\n- Suggested new internal links (3-5)\n- Anchor text suggestions\n- Link placement suggestions\n\n**7. Multimedia Optimization**\n- Image Alt tag suggestions\n- File naming suggestions\n- Video/Infographic suggestions\n\n**8. Additional Recommendations**\n- Schema Markup suggestions\n- External link suggestions\n- Update frequency suggestions",
+      "tags": ["Marketing"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T11:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "title": "Newsletter Content Planning",
+      "author": "@happycoder",
+      "content": "# Role\nYou are an email marketing expert, skilled in designing email content with high open and click-through rates, and well-versed in email marketing best practices.\n\n# Task\nDesign a comprehensive email newsletter content plan, including subject lines, structure, copywriting, and visual recommendations, to increase open rates and conversion rates.\n\n# Context\n**Newsletter Topic**: [Enter this issue’s topic]\n**Target Audience**: [Enter subscriber type and characteristics]\n**Purpose of Sending**: [Promotion / Content Sharing / Event Notification / Membership Engagement, etc.]\n**Brand Tone**: [Enter brand style]\n**Desired Action**: [Expected action from subscribers]\n**Sending Frequency**: [Weekly / Monthly / Irregular]\n\n# Output Format\n\n**1. Subject Line Design (3 Versions)**\nEach version should include:\n- Subject line text (30–50 characters)\n- Preview text (40–100 characters)\n- Design strategy explanation\n- Applicable scenario\n\n**2. Newsletter Structure Planning**\n`\n[Header Section]\n- Logo / Brand Identity\n- Navigation Links\n\n[Hero Section]\n- Main Visual\n- Headline and Subheadline\n- Primary CTA\n\n[Content Section 1]\n- Block Title\n- Content Summary\n- CTA Button\n\n[Content Sections 2–3]\n(Repeat as needed)\n\n[Footer Section]\n- Social Media Links\n- Unsubscribe Link\n`\n\n**3. Detailed Content for Each Section**\nFor each content block, provide:\n- Title suggestions (3 options)\n- Copywriting (50–100 words)\n- CTA text suggestions\n- Target link page\n\n**4. Visual Design Recommendations**\n- Color Scheme\n- Image Style and Dimensions\n- Layout Recommendations (Single-column / Two-column)\n- Responsive Design Considerations\n\n**5. Personalization Strategy**\n- Dynamic Content Recommendations (based on subscriber attributes)\n- Personalization Fields (Name, Purchase History, etc.)\n- Recommendation System Usage\n\n**6. A/B Testing Plan**\n- Test Items (Subject Line / CTA / Images, etc.)\n- Test Version Designs\n- Evaluation Metrics\n\n**7. Sending Optimization Recommendations**\n- Best Sending Time\n- Segmentation Strategy\n- Tracking Settings (UTM Parameters)",
+      "tags": ["Marketing"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T11:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440004",
+      "title": "Competitor Analysis Report",
+      "author": "@happycoder",
+      "content": "# Role\nYou are a market analysis expert, skilled in competitor research and strategic analysis, capable of evaluating competitive landscapes from multiple dimensions and providing strategic recommendations.\n\n# Task\nConduct a comprehensive competitor analysis to identify competitor strengths and weaknesses, and find our differentiation opportunities and response strategies.\n\n# Context\n**Our Product/Service**: [Input product name and positioning]\n**Key Competitors**: [List 2-3 direct competitors]\n**Industry**: [Input industry]\n**Market Size**: [Input market status]\n**Analysis Focus**: [Choose: Marketing strategy/Product features/Pricing/Customer experience/Technical capability]\n**Purpose**: [Formulate marketing strategy/Product improvement/Pricing adjustment, etc.]\n\n# Output Format\n\n**1. Executive Summary**\n- Overview of competitive situation\n- Key findings (Top 3)\n- Strategic recommendations (Top 3)\n\n**2. Individual Competitor Analysis**\nFor each competitor, provide:\n\n**Competitor A: [Name]**\n- **Company Background**: Founding date, size, market share\n- **Product/Service Positioning**: Core value proposition\n- **Target Audience**: Primary audience and positioning\n- **Pricing Strategy**: Price range and strategy type\n- **Core Strengths**: 3-5 key advantages\n- **Obvious Weaknesses**: 3-5 weaknesses\n- **Marketing Channels**: Primary acquisition channels\n- **Content Strategy**: Content types and frequency\n- **Social Performance**: Followers, engagement rate, growth trends\n- **Technical Capability**: Tech stack or innovation points\n- **Customer Reviews**: Major positive and negative feedback\n\n**3. Multi-dimensional Comparison Table**\n```\n| Item | Us | Competitor A | Competitor B | Competitor C |\n|------|----|--------------|--------------|--------------|\n| Price | | | | |\n| Feature Completeness | | | | |\n| User Experience | | | | |\n| Brand Awareness | | | | |\n| Customer Service | | | | |\n| Innovation | | | | |\n```\n\n**4. SWOT Analysis**\n- **Our Strengths**\n- **Our Weaknesses**\n- **Market Opportunities**\n- **External Threats**\n\n**5. Differentiation Opportunity Points**\n- Market gap identification\n- Unmet customer needs\n- Unique values to develop\n\n**6. Strategic Recommendations**\n- **Short-term Action Plans** (Quick Wins)\n- **Mid-to-long-term Strategic Planning**\n- **Resource Allocation Suggestions**\n- **Risks and Considerations**",
+      "tags": ["Marketing"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440005",
+      "title": "Sales Pitch Script",
+      "author": "@happycoder",
+      "content": "# Role\nYou are a senior sales training expert, skilled at designing structured sales pitches and response strategies to help sales personnel improve closing rates.\n\n# Task\nDesign a complete sales pitch script covering all stages from opening to closing, and provide objection handling and negotiation techniques.\n\n# Context\n**Product/Service**: [Input product name and core value]\n**Target Customer**: [Input customer type, industry, position]\n**Customer Pain Points**: [Input customer's main problems]\n**Sales Scenario**: [Cold calling/Face-to-face visit/Online meeting/Exhibition contact]\n**Sales Cycle**: [Short/Medium/Long term]\n**Average Deal Size**: [Input amount range]\n**Key Competitors**: [Input competitors]\n\n# Output Format\nPlease provide a complete seven-stage sales pitch, including ice-breaking, discovery (SPIN questions), solution presentation (FAB rule), objection handling (8+ types), price negotiation, closing the deal, and follow-up strategies. For each stage, provide specific script examples, usage tips, and precautions.",
+      "tags": ["Sales"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T12:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440006",
+      "title": "Sales Prospecting Email Templates",
+      "author": "@happycoder",
+      "content": "# Role\nYou are a B2B sales email expert, skilled at writing cold emails with high open and response rates, and well-versed in business communication and value delivery techniques.\n\n# Task\nWrite 3 different styles of prospecting emails to improve open, read, and response rates.\n\n# Context\n**Target Customer**:\n- Company Name: [Input]\n- Industry: [Input]\n- Company Size: [Input]\n- Recipient Position: [Input, e.g., CEO/Marketing Director/Purchasing Manager]\n\n**Our Information**:\n- Product/Service: [Input core solution]\n- Core Value: [Input what the customer gains]\n- Target Customer Pain Points: [Input]\n- Success Case: [Input similar customer case]\n\n**Email Purpose**: [First contact/Meeting request/Solution intro/Trial invitation]\n**Known Info**: [Input what you know about the recipient or company, like recent news, pain points, dynamics, etc.]\n\n# Output Format\nPlease provide three versions of complete emails (Formal Professional, Friendly & Warm, Creative & Eye-catching). Each version should include 3 subject line options, full email content (including personalized opening, problem awareness, value proposition, social proof, CTA), professional signature suggestions, as well as sending timing, A/B testing, and follow-up strategies.",
+      "tags": ["Sales"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T13:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440007",
+      "title": "Business Proposal Presentation",
+      "author": "@happycoder",
+      "content": "# Role\nYou are a business presentation consultant, skilled at designing persuasive proposal presentations that clearly deliver value and close deals.\n\n# Task\nPlan a complete business proposal presentation, including content structure, key explanations, and visual presentation suggestions.\n\n# Context\n**Target Audience**:\n- Company Background: [Input company info]\n- Decision Makers: [Input key figures and positions participating]\n- Industry Characteristics: [Input industry]\n- Known Pain Points: [Input problems the customer faces]\n\n**Our Solution**:\n- Solution: [Input product/service]\n- Core Advantages: [Input differentiated features]\n- Expected Benefits: [Input results the customer can achieve]\n\n**Presentation Conditions**:\n- Time: [Input duration, e.g., 30/45/60 minutes]\n- Setting: [Online/In-person/Hybrid]\n- Budget Range: [Input budget]\n\n# Output Format\nPlease provide a complete presentation structure plan, including suggested slide count, time allocation, and detailed content highlights for each section (Opening, Pain Point Analysis, Solution, Differentiated Advantages, Success Cases, Implementation Plan, ROI Analysis, Pricing Plan, Next Steps, Q&A Preparation). Also include presentation modes for each page, visual design suggestions, key scripts, and presentation tips.",
+      "tags": ["Sales"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T13:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440008",
+      "title": "Sales Target Decomposition Plan",
+      "author": "@happycoder",
+      "content": "# Role\nYou are a sales management consultant, skilled at breaking down macro goals into executable action plans and designing effective tracking and incentive mechanisms.\n\n# Task\nScientifically decompose the annual sales target into monthly, individual, and product line targets, and establish a complete tracking and reward system.\n\n# Context\n**Team Info**:\n- Annual Target: [Input revenue target amount, e.g., NT$ 50,000,000]\n- Team Size: [Input number of sales and rank distribution]\n- Experience: [Junior/Senior/Mixed]\n- Period: [Input year or quarter]\n\n**Business Info**:\n- Product Lines: [List products/services and gross margins]\n- Average Deal Size: [Input amount]\n- Sales Cycle: [Input average closing time]\n- Historical Conversion Rate: [Input data, e.g., contact → proposal → closed]\n\n**Market Environment**:\n- Seasonality: [Input peak/off-peak months]\n- Customer Type Distribution: [New/Renewal ratio]\n- Market Growth Rate: [Input expectation]\n\n# Output Format\nPlease provide a complete target decomposition plan, including monthly target allocation (considering seasonality), individual target allocation (by competency level), product mix targets, new vs. old customer ratios, activity metrics (funnel management), quarterly milestones, KPI dashboard design, incentive mechanisms (base bonus + extra incentives + gamification), and risk warning mechanisms.",
+      "tags": ["Sales"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T14:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440009",
+      "title": "Customer Relationship Maintenance Plan",
+      "author": "@happycoder",
+      "content": "# Role\nYou are a Customer Success Management expert, skilled at designing systematic customer maintenance plans to increase customer lifetime value and loyalty.\n\n# Task\nEstablish a complete customer relationship maintenance system covering tiered management, contact strategies, satisfaction tracking, and value enhancement programs.\n\n# Context\n**Current Status**:\n- Customer Type: [Enterprises/SMEs/Individuals/Specific Industry]\n- Current Customer Count: [Input total and distribution]\n- Annual Revenue Contribution: [Input amount]\n- Avg. Customer Lifetime: [Input years]\n\n**Business Goals**:\n- Maintenance Goal: [Improve renewal rate/Upsell/Referrals/Reduce churn]\n- Target Renewal Rate: [Input target %]\n- Upsell Target: [Input amount]\n- Referral Target: [Input quantity]\n\n**Resource Allocation**:\n- CS Team Size: [Input]\n- Available Budget: [Input]\n- Existing Tools: [CRM/CS System/Automation tools]\n\n# Output Format\nPlease provide a complete customer relationship maintenance plan, including ABC customer classification standards and dynamic adjustment mechanisms, differentiated contact strategies (frequency and method), monthly/quarterly/annual care action plans, customer satisfaction survey mechanisms (Transactional + Relational + NPS), upsell opportunity identification and processes, customer loyalty enhancement programs (points/VIP benefits/community), referral incentive mechanisms, churn warning indicators and retention processes, and monthly/quarterly/annual execution checklists.",
+      "tags": ["Sales"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T14:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440010",
+      "title": "Business Partnership Proposal",
+      "author": "@happycoder",
+      "content": "Please assist in writing a business partnership proposal:\n\nPartner: [Input partner name]\nType: [Channel partnership/Technical collaboration/Co-marketing, etc.]\nOur Resources: [Input resources we can provide]\nExpectations: [Input what we expect from the partnership]\n\nThe proposal should include:\n1. Origin and Background\n2. Complementary Strengths Analysis\n3. Collaboration Model and Framework\n4. Specific Content and Division of Labor\n5. Expected Benefit Analysis (Mutual)\n6. Resource Investment and Cost Sharing\n7. Collaboration Timeline\n8. Performance Evaluation Mechanism\n9. Risk Assessment and Exit Mechanism\n10. Next Steps Suggestions",
+      "tags": ["Business"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T15:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440011",
+      "title": "Business Model Canvas Analysis",
+      "author": "@happycoder",
+      "content": "Please analyze the following business using the Business Model Canvas:\n\nCompany/Product: [Input name]\nIndustry: [Input industry]\nStage: [Startup/Growth/Mature, etc.]\n\nPlease help analyze the nine blocks:\n1. Customer Segments\n2. Value Propositions\n3. Channels\n4. Customer Relationships\n5. Revenue Streams\n6. Key Resources\n7. Key Activities\n8. Key Partnerships\n9. Cost Structure\n\nAlso provide optimization suggestions and potential risk assessments.",
+      "tags": ["Business"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T15:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440012",
+      "title": "Market Entry Strategy",
+      "author": "@happycoder",
+      "content": "Please assist in planning a market entry strategy:\n\nTarget Market: [Input market/region]\nProduct/Service: [Input product]\nCompany Resources: [Input available resources]\nTimeline Goal: [Input estimated time]\n\nThe strategy planning should include:\n1. Market Opportunity Assessment (Size, Growth)\n2. Competitive Environment Analysis (Five Forces)\n3. SWOT Analysis\n4. Entry Mode Selection (Direct investment/JV/Agency, etc.)\n5. Target Audience Positioning\n6. Product/Service Localization Strategy\n7. Pricing Strategy\n8. Channel Strategy\n9. Marketing Promotion Plan\n10. Risk Management and Contingency Plans\n11. Phased Milestones\n12. Resource Requirements and Budget",
+      "tags": ["Business"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T16:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440013",
+      "title": "Investment Evaluation Report",
+      "author": "@happycoder",
+      "content": "Please assist in writing an investment evaluation report:\n\nTarget: [Input project name]\nAmount: [Input amount]\nPeriod: [Input term in years]\nPurpose: [Strategic investment/Financial investment, etc.]\n\nThe report should include:\n1. Background Introduction of the Target\n2. Industry and Market Analysis\n3. Business Model Evaluation\n4. Financial Status Analysis\n5. ROI Estimates (ROI/IRR/NPV)\n6. Risk Assessment (Market/Operational/Financial)\n7. Due Diligence Key Items\n8. Investment Structure Recommendations\n9. Exit Strategy Planning\n10. Investment Decision Recommendations\n11. Key Assumptions\n12. Sensitivity Analysis",
+      "tags": ["Business"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T16:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440014",
+      "title": "Contract Review Key Points",
+      "author": "@happycoder",
+      "content": "Please assist in reviewing key points of a business contract:\n\nContract Type: [Purchasing/Sales/Partnership/Licensing, etc.]\nCounterparty: [Input counterparty info]\nAmount: [Input amount range]\nPeriod: [Input duration]\n\nPlease review the following focus areas:\n1. Parties and Definitions\n2. Allocation of Rights and Obligations\n3. Transaction Conditions (Price, Payment, Delivery)\n4. IP Clauses\n5. Confidentiality Clauses\n6. Default Liability and Penalties\n7. Dispute Resolution Mechanism\n8. Termination and Rescission Clauses\n9. Force Majeure\n10. Governing Law and Jurisdiction\n11. Potential Risk Points\n12. Suggested Modifications or New Clauses",
+      "tags": ["Business"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T17:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440015",
+      "title": "SOP (Standard Operating Procedure) Design",
+      "author": "@happycoder",
+      "content": "Please assist in designing a Standard Operating Procedure (SOP):\n\nProcedure Name: [Input process name]\nDepartment: [Input department]\nPurpose: [Input goal]\nRoles Involved: [Input relevant personnel]\n\nThe SOP should include:\n1. Purpose and Scope\n2. Target Audience and Responsibilities\n3. Related Documents and Forms\n4. Flowchart\n5. Detailed Step-by-step Instructions\n6. Step Owners and Time Limits\n7. Precautions and FAQs\n8. Exception Handling Procedures\n9. Quality Checkpoints\n10. Legal or Policy Basis\n11. Form Templates\n12. Revision History",
+      "tags": ["Operations"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T17:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440016",
+      "title": "Operational Efficiency Improvement Plan",
+      "author": "@happycoder",
+      "content": "Please assist in planning an operational efficiency improvement program:\n\nGoal: [Input items to improve]\nCurrent Issues: [Input problems faced]\nResource Constraints: [Input limits]\nExpected Results: [Input target]\n\nThe improvement plan should include:\n1. Situation Analysis (Flowcharts/Data analysis)\n2. Root Cause Analysis (5 Whys/Fishbone diagram)\n3. Improvement Opportunity Identification\n4. Specific Measures (Quick wins + long-term solutions)\n5. Benefit Evaluation (Time/Cost/Quality)\n6. Implementation Plan and Timeline\n7. Required Resources and Budget\n8. Risk Assessment and Mitigation\n9. KPI Setting and Tracking\n10. Change Management Plan\n11. Pilot and Scaling Strategy",
+      "tags": ["Operations"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T18:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440017",
+      "title": "Supply Chain Management Optimization",
+      "author": "@happycoder",
+      "content": "Please assist in optimizing supply chain management:\n\nIndustry: [Input industry]\nType: [Manufacturing/Retail/Service, etc.]\nPrimary Pain Points: [Input problems]\nOptimization Goal: [Cost/Speed/Flexibility, etc.]\n\nOptimization suggestions should include:\n1. Supply Chain Diagnosis\n2. Supplier Management Strategy\n3. Inventory Optimization (Safety stock/Turnover)\n4. Procurement Process Improvement\n5. Logistics and Distribution Optimization\n6. Demand Forecasting Mechanism\n7. Risk Management (Disruption/Quality)\n8. Digital Tool Recommendations\n9. Cost Saving Opportunities\n10. KPI Dashboard Design\n11. Implementation Priorities\n12. Quick Wins",
+      "tags": ["Operations"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T18:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440018",
+      "title": "Project Risk Management Plan",
+      "author": "@happycoder",
+      "content": "Please assist in establishing a project risk management plan:\n\nProject Name: [Input project]\nScale: [Input budget/timeline]\nNature: [New product/System implementation/Org change, etc.]\nKey Stakeholders: [Input]\n\nThe risk management plan should include:\n1. Risk Identification (SWOT/Brainstorming)\n2. Risk Classification (Technical/Resource/External/Org, etc.)\n3. Risk Assessment Matrix (Probability x Impact)\n4. Top 10 Risk List\n5. Response Strategies (Avoid/Mitigate/Transfer/Accept)\n6. Specific Action Plans\n7. Risk Owner Assignment\n8. Contingency Plan (Plan B)\n9. Risk Monitoring Mechanism\n10. Risk Communication Plan\n11. Risk Register Template\n12. Regular Review Frequency",
+      "tags": ["Operations"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T19:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440019",
+      "title": "Operational Data Analysis Report",
+      "author": "@happycoder",
+      "content": "Please assist in analyzing operational data and producing a report:\n\nTheme: [Input theme]\nData Source: [Input data type]\nPeriod: [Input time range]\nPurpose: [Input goal]\n\nThe report should include:\n1. Executive Summary (Key findings)\n2. Data Overview and Quality Description\n3. Trend Analysis (Time series)\n4. Comparative Analysis (YoY/MoM/Target achievement)\n5. Correlation Analysis\n6. Outlier Identification and Explanation\n7. Root Cause Analysis\n8. Visualization (Suggested types)\n9. Key Insights and Suggestions\n10. Forecasting and Scenario Analysis\n11. Action Recommendations\n12. Follow-up Tracking Metrics",
+      "tags": ["Operations"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T19:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440020",
+      "title": "Customer Service Response Scripts",
+      "author": "@happycoder",
+      "content": "Please assist in designing customer service response scripts:\n\nScenario Type: [Product issue/Service complaint/Returns, etc.]\nCustomer Emotion: [Angry/Disappointed/Anxious, etc.]\nProblem Description: [Input specific situation]\n\nScript design should include:\n1. Empathetic Opening\n2. Problem Confirmation and Clarification\n3. Apology and Taking Responsibility (if appropriate)\n4. Solution Provision\n5. Compensation Plan (if necessary)\n6. Customer Satisfaction Check\n7. Gratitude and Relationship Repair\n8. Follow-up Promise\n\nPlease provide:\n- Standard Response Scripts\n- Advanced Handling Techniques\n- Landmine Words Warning\n- Emotional Soothing Strategies",
+      "tags": ["CustomerService"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T20:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440021",
+      "title": "CS Knowledge Base Establishment",
+      "author": "@happycoder",
+      "content": "Please assist in establishing a Customer Service knowledge base:\n\nProduct/Service: [Input name]\nPrimary Audience: [Input customer type]\nFAQ Types: [Input problem categories]\n\nThe knowledge base framework should include:\n1. Category Structure (Product/Billing/Technical/Policy, etc.)\n2. Top 20 FAQs\n3. Standard Answers for Each Question\n4. Related Question Links\n5. Search Keyword Settings\n6. Visual Illustrations (if necessary)\n7. Problem-solving steps (SOP)\n8. Escalation Criteria\n9. Update and Maintenance Mechanism\n10. Staff Quick Finder Guide\n11. Self-service Design\n12. Knowledge Base Training",
+      "tags": ["CustomerService"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T20:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440022",
+      "title": "Customer Satisfaction Survey Design",
+      "author": "@happycoder",
+      "content": "Please assist in designing a customer satisfaction survey:\n\nPurpose: [Service improvement/Product optimization, etc.]\nTarget: [Input customer type]\nMethod: [Online/Phone/Email, etc.]\nTiming: [Post-purchase/Post-service/Periodic, etc.]\n\nThe questionnaire design should include:\n1. Basic Info Collection\n2. Overall Rating (NPS/CSAT)\n3. Multi-dimensional Satisfaction (Product/Service/Price, etc.)\n4. Open-ended Feedback\n5. Improvement Suggestions\n6. Recommendation Intent\n7. Demographics (Optional)\n\nAlso provide:\n- Survey flow design\n- Question count suggestions (Max 10)\n- Response rate improvement tips\n- Data analysis framework\n- Follow-up action plan",
+      "tags": ["CustomerService"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T21:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440023",
+      "title": "CS Performance Metrics (KPI) Setting",
+      "author": "@happycoder",
+      "content": "Please assist in setting customer service performance metrics:\n\nService Type: [Phone/Online/Email/On-site, etc.]\nTeam Size: [Input count]\nService Characteristics: [B2B/B2C/Tech Support, etc.]\nFocus: [Input goal]\n\nThe metric system should include:\n1. Efficiency Metrics\n   - Average Handle Time (AHT)\n   - First Contact Resolution (FCR)\n   - Service Level (Answer rate)\n2. Quality Metrics\n   - Customer Satisfaction (CSAT)\n   - Net Promoter Score (NPS)\n   - Quality Monitoring Scores\n3. Productivity Metrics\n   - Volume handled\n   - Online time utilization\n4. Individual Development Metrics\n5. Target Value Recommendations\n6. Data Collection Methods\n7. Performance Dashboard Design\n8. Incentive Mechanism Suggestions",
+      "tags": ["CustomerService"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T21:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440024",
+      "title": "CS Automation Planning",
+      "author": "@happycoder",
+      "content": "Please assist in planning a customer service automation solution:\n\nExisting Pain Points: [Input problems]\nChannels: [Website/App/LINE/FB, etc.]\nAutomation Goal: [Input expectations]\nBudget: [Input budget]\n\nThe plan should include:\n1. Automation Opportunity Assessment\n2. Question Types Suitable for Automation\n3. Chatbot Dialogue Flow Design\n4. Auto-reply Settings for FAQs\n5. Human Intervention Triggers\n6. Knowledge Base Integration\n7. Multi-channel Integration Strategy\n8. Implementation Priorities\n9. Technical Solution Recommendations\n10. Performance Evaluation Metrics\n11. Staffing Adjustment Suggestions\n12. Continuous Optimization Mechanism\n\nAlso analyze expected cost savings and efficiency improvements.",
+      "tags": ["CustomerService"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T22:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440025",
+      "title": "Job Description (JD) Writing",
+      "author": "@happycoder",
+      "content": "Please assist in writing a Job Description (JD):\n\nJob Title: [Input title]\nDepartment: [Input department]\nReporting To: [Input manager]\nLocation: [Input location]\n\nThe JD should include:\n1. Company Intro (Attractive description)\n2. Job Highlights (Why join us)\n3. Responsibilities (3-5 main tasks)\n4. Requirements (Education/Experience/Skills)\n5. Plus Factors (Preferred conditions)\n6. Personal Traits\n7. What We Offer (Salary benefits/Growth)\n8. How to Apply\n\nWriting Principles:\n- Precise but friendly wording\n- Highlight job value\n- Avoid gender or age bias\n- Comply with labor laws",
+      "tags": ["HR"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T22:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440026",
+      "title": "Interview Question Bank",
+      "author": "@happycoder",
+      "content": "Please assist in designing an interview question bank:\n\nPosition Category: [Input position]\nFocus: [Skills/Experience/Culture Fit, etc.]\nInterview Stage: [First/Second/Manager round, etc.]\n\nThe question bank should include:\n1. Ice-breakers (2-3 questions)\n2. Behavioral Questions (STAR Method)\n   - Teamwork\n   - Problem Solving\n   - Stress Management\n   - Leadership\n   - Learning Ability\n3. Situational Questions (2-3 questions)\n4. Technical Skills Questions (Per position)\n5. Culture Fit Assessment\n6. Motivation and Career Planning\n7. Reverse Questions (For candidates to ask)\n\nFor each question, provide:\n- The question itself\n- Evaluation purpose\n- Model answer example\n- Red flags",
+      "tags": ["HR"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T23:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440027",
+      "title": "Employee Training Plan",
+      "author": "@happycoder",
+      "content": "Please assist in designing an employee training plan:\n\nTarget: [New hires/Existing staff/Managers, etc.]\nGoal: [Skill up/Culture integration/Certification, etc.]\nTimeframe: [Input period]\nBudget: [Input budget]\n\nThe training plan should include:\n1. Needs Analysis\n2. Goal Setting (SMART)\n3. Curriculum Structure\n4. Course Outlines\n   - Course Name\n   - Learning Objectives\n   - Hours\n   - Teaching Methods\n   - Instructor Requirements\n5. Training Schedule\n6. Materials and Resource Requirements\n7. Learning Assessment Methods\n8. Effectiveness Measurement (Kirkpatrick 4 Levels)\n9. Budget Allocation\n10. Risks and Contingencies\n11. Continuous Improvement Mechanism",
+      "tags": ["HR"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-15T23:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440028",
+      "title": "Performance Appraisal System Design",
+      "author": "@happycoder",
+      "content": "Please assist in designing a performance appraisal system:\n\nCompany Size: [Input employee count]\nIndustry: [Input industry]\nCycle: [Monthly/Quarterly/Annual]\nPurpose: [Salary adjustment/Promotion/Development, etc.]\n\nThe design should include:\n1. Performance Management Process\n   - Goal Setting\n   - Mid-term Review\n   - Annual Appraisal\n2. Dimensions and Weights\n   - Key Performance Indicators (KPIs)\n   - Competency Indicators\n   - Values/Behavioral Indicators\n3. Scoring Standards and Definitions\n4. Rating Distribution (Forced vs. Free distribution)\n5. Process and Timeline\n6. Appraiser Training\n7. Feedback and Interview Guidelines\n8. Appeal Mechanism\n9. Performance Improvement Plan (PIP)\n10. Link to Rewards\n11. System Tool Requirements",
+      "tags": ["HR"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T00:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440029",
+      "title": "Employee Retention Strategy",
+      "author": "@happycoder",
+      "content": "Please assist in planning an employee retention strategy:\n\nCurrent Status: [Input turnover rate/main issues]\nTarget Group: [Core talents/New hires/Specific departments, etc.]\nConstraints: [Input budget or limits]\n\nThe strategy should include:\n1. Turnover Cause Analysis\n   - Exit interview data summary\n   - Root cause analysis\n2. Employee Engagement Survey\n3. Retention Strategy Planning\n   - Compensation & Benefit optimization\n   - Career development paths\n   - Environment improvement\n   - Leadership enhancement\n   - Work-life balance\n   - Recognition & Rewards\n4. Key Talent Identification and Preservation\n5. Turnover Risk Early Warning\n6. Stay Interview Plan\n7. Implementation Priorities\n8. Quick Wins\n9. Effectiveness Metrics\n10. Action Plan and Timeline",
+      "tags": ["HR"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T00:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440030",
+      "title": "Financial Statement Analysis",
+      "author": "@happycoder",
+      "content": "Please assist in analyzing financial statements:\n\nCompany: [Input company]\nPeriod: [Input year/quarter]\nPurpose: [Investment evaluation/Diagnosis/Credit assessment, etc.]\nComparison: [Peers/Historical data, etc.]\n\nAnalysis should include:\n1. Balance Sheet Analysis\n   - Asset structure\n   - Liability structure\n   - Equity changes\n2. Income Statement Analysis\n   - Revenue growth\n   - Profitability\n   - Cost structure\n3. Cash Flow Analysis\n   - Operating cash flow\n   - Investing and Financing activities\n4. Financial Ratio Analysis\n   - Liquidity ratios\n   - Solvency ratios\n   - Profitability ratios\n   - Efficiency ratios\n5. Trend Analysis\n6. Peer Comparison\n7. DuPont Analysis (ROE Breakdown)\n8. Financial Warning Indicators\n9. Comprehensive Evaluation and Suggestions",
+      "tags": ["Finance"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T01:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440031",
+      "title": "Annual Budget Planning",
+      "author": "@happycoder",
+      "content": "Please assist in planning an annual budget:\n\nCompany/Dept: [Input name]\nBudget Year: [Input year]\nRevenue Target: [Input target]\nStrategic Focus: [Input key items]\n\nBudget planning should include:\n1. Principles and Assumptions\n2. Revenue Budget\n   - By product line/customer/region\n   - Growth assumptions\n3. Cost Budget\n   - Direct costs\n   - Indirect costs\n   - Fixed vs. Variable costs\n4. Expense Budget\n   - Personnel\n   - Marketing\n   - R&D\n   - Admin\n5. CAPEX Budget\n6. Cash Flow Budget\n7. Allocation Suggestions\n8. Monthly/Quarterly Decomposition\n9. Control Mechanisms\n10. Variance Analysis Process\n11. Adjustment Mechanisms\n12. Achievement Incentives",
+      "tags": ["Finance"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T01:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440032",
+      "title": "Cost Control Solution",
+      "author": "@happycoder",
+      "content": "Please assist in planning a cost control solution:\n\nArea: [Company-wide/Specific dept/Specific project]\nPain Points: [Input cost issues]\nSaving Goal: [Input amount or %]\nConstraints: [Untouchable items]\n\nThe solution should include:\n1. Cost Structure Analysis\n2. Cost Driver Analysis\n3. Savings Opportunity Identification\n   - Procurement optimization\n   - Process efficiency\n   - Resource utilization\n   - Outsourcing vs. In-house\n   - Energy and Utilities\n4. Potential Assessment for Each Item\n5. Feasibility Analysis\n6. Priority Ranking\n7. Action Plans\n8. Implementation Timeline\n9. Risk Assessment\n10. Benefit Tracking\n11. Quick Wins\n12. Continuous Improvement Mechanism",
+      "tags": ["Finance"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T02:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440033",
+      "title": "Cash Flow Management Plan",
+      "author": "@happycoder",
+      "content": "Please assist in planning a cash flow management plan:\n\nCompany Type: [Startup/Growth/Mature, etc.]\nMain Issues: [Cash shortage/Idle funds/Turnover, etc.]\nIndustry: [Input industry]\n\nThe plan should include:\n1. Current Situation Analysis\n   - Operating cycle analysis\n   - Cash conversion cycle\n2. Cash Flow Forecast (Next 3-12 months)\n3. Collection Management Optimization\n   - A/R management\n   - Collection policy review\n   - Credit management\n4. Payment Management Optimization\n   - A/P management\n   - Payment term negotiation\n5. Inventory Optimization\n6. Cash Level Management\n   - Minimum cash requirements\n   - Warning mechanisms\n7. Short-term Financing\n8. Idle Fund Utilization\n9. Financing Planning (if needed)\n10. Cash Flow Dashboard\n11. Risk Scenario Planning",
+      "tags": ["Finance"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T02:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440034",
+      "title": "Financial Presentation Preparation",
+      "author": "@happycoder",
+      "content": "Please assist in preparing a financial presentation:\n\nAudience: [Board/Investors/Management/Employees]\nPurpose: [Quarterly review/Annual summary/Fundraising/Project report]\nTime Limit: [Input duration]\n\nSuggested Framework:\n1. Executive Summary\n   - Key numbers and highlights\n   - Main findings\n2. Financial Performance Review\n   - Revenue and Profit\n   - Comparison with target/last year\n3. Key Financial Ratios\n   - Visual charts\n   - Trend explanations\n4. Cost and Expense Analysis\n5. Cash Flow and Health Status\n6. Dept/Product Line Performance\n7. Risks and Challenges\n8. Outlook and Action Plans\n9. Q&A Preparation\n\nPlease provide:\n- Suggested chart types\n- Data visualization tips\n- Storytelling framework\n- Potential questions and responses",
+      "tags": ["Finance"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T03:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440035",
+      "title": "Meeting Minutes Organization",
+      "author": "@happycoder",
+      "content": "Please assist in organizing meeting minutes:\n\nMeeting Name: [Input theme]\nDate & Time: [Input]\nAttendees: [Input participants]\nContent: [Input discussion points or transcript]\n\nMinutes Format:\n1. Basic Info (Name, Date, Time, Location, Chair, Recorder, Attendees/Absentees)\n2. Meeting Purpose\n3. Discussion Summary (Bullet points)\n4. Decisions Made\n5. Action Items (Task, Owner, Deadline)\n6. Next Meeting Time\n7. Attachment List (if any)\n\nPlease ensure:\n- Clear highlights\n- Explicit actions\n- Assigned responsibilities\n- Specific deadlines",
+      "tags": ["Admin"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T03:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440036",
+      "title": "Company Regulation Drafting",
+      "author": "@happycoder",
+      "content": "Please assist in drafting company regulations:\n\nType: [Work rules/Travel policy/Leave policy, etc.]\nTarget: [All employees/Specific depts, etc.]\nPurpose: [Input purpose]\nBasis: [Labor laws/Company policy, etc.]\n\nStructure should include:\n1. Name and Legal Basis\n2. Purpose and Scope\n3. Definitions\n4. Responsible Units\n5. Detailed Provisions (Clear clauses, numbering, full coverage of scenarios)\n6. Procedures (if needed)\n7. Form Templates (if needed)\n8. Violations and Penalties\n9. Exceptions\n10. Effective Date\n11. Revision History\n\nPlease ensure:\n- Compliance with labor laws\n- Unambiguous wording\n- High executability\n- Fairness and rationality",
+      "tags": ["Admin"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T04:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440037",
+      "title": "Event Planning and Execution",
+      "author": "@happycoder",
+      "content": "Please assist in planning an event:\n\nType: [Year-end party/Staff trip/Press conference/Customer event, etc.]\nPurpose: [Input goal]\nParticipants: [Input estimated count]\nBudget: [Input budget]\nDate: [Input planned time]\n\nPlan should include:\n1. Overview and Goals\n2. Theme and Highlights\n3. Audience Analysis\n4. Rundown\n5. Venue Requirements and Suggestions\n6. Budget Allocation (Venue, F&B, Entertainment, Gifts, Promo)\n7. Promo and Registration Mechanism\n8. Division of Labor\n9. Risk Management (Weather/Attendance/Emergencies)\n10. Timeline Schedule\n11. Effectiveness Evaluation\n12. Checklist",
+      "tags": ["Admin"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T04:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440038",
+      "title": "Office Management Optimization",
+      "author": "@happycoder",
+      "content": "Please assist in optimizing office management:\n\nOffice Scale: [Input people count/Area]\nIssues: [Lack of space/Low efficiency/High cost, etc.]\nGoal: [Input expectations]\n\nOptimization should include:\n1. Current Diagnosis (Space usage, Efficiency, Cost)\n2. Space Planning Optimization (Seating, Meeting rooms, Common areas)\n3. Equipment Management (Inventory, Maintenance)\n4. Environment and Safety (5S management, Health & Safety)\n5. Process Optimization (File mgmt, Procurement, Visitor mgmt)\n6. Cost Control\n7. Green Office Initiatives\n8. Digital Tools Implementation\n9. Implementation Plan\n10. Expected Benefits",
+      "tags": ["Admin"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T05:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440039",
+      "title": "Document Management System Setup",
+      "author": "@happycoder",
+      "content": "Please assist in establishing a document management system:\n\nDoc Types: [Contracts/Reports/Forms/SOPs, etc.]\nScope: [Company-wide/Dept specific]\nIssues: [Unfindable/Version chaos/Clearance issues, etc.]\n\nSystem should include:\n1. Classification Hierarchy (Levels, Naming rules)\n2. Coding System\n3. Version Control (Version numbers, Revision logs)\n4. Permission Management (Access levels, Confidentiality)\n5. Lifecycle (Creation, Audit, Release, Revision, Archiving, Disposal)\n6. Storage and Backup (Physical, Electronic)\n7. Retrieval Mechanism\n8. Doc Templates\n9. Implementation Plan\n10. Training\n11. Audit Mechanism",
+      "tags": ["Admin"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T05:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440040",
+      "title": "Product Requirements Document (PRD)",
+      "author": "@happycoder",
+      "content": "Please assist in writing a Product Requirements Document (PRD):\n\nProduct Name: [Input product/feature]\nTarget Users: [Input user type]\nProblem Statement: [Input problem to solve]\n\nThe PRD should include:\n1. Doc Info (Version, Date, Owner)\n2. Background and Goals (Why, Business goals, Success metrics)\n3. User Research (Target users, Pain points, Scenarios)\n4. Requirements (Functional, Non-functional, Priority: Must/Should/Nice to have)\n5. User Stories and Flows\n6. UI/UX Design Points\n7. Tech Constraints and Dependencies\n8. Launch Plan and Milestones\n9. Risks and Assumptions\n10. Future Planning\n11. Appendix (Refs, Competitor analysis)",
+      "tags": ["PM"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T06:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440041",
+      "title": "User Story Writing",
+      "author": "@happycoder",
+      "content": "Please assist in writing User Stories:\n\nFeature: [Input feature]\nRole: [Input role]\nScenario: [Input scenario]\n\nFormat:\nAs a [role]\nI want to [action/feature]\nSo that [purpose/value]\n\nEach User Story should include:\n1. Description (Format above)\n2. Acceptance Criteria (Given/When/Then)\n3. Priority (P0/P1/P2)\n4. Story Points Estimation\n5. Related Doc/Design Links\n6. Notes\n\nPlease provide:\n- 5-10 related User Stories\n- Ensure INVEST principles",
+      "tags": ["PM"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T06:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440042",
+      "title": "Product Roadmap Planning",
+      "author": "@happycoder",
+      "content": "Please assist in planning a Product Roadmap:\n\nProduct: [Input name]\nPeriod: [Q1-Q4 or 6-12 months]\nStrategy: [Input goal]\nConstraints: [Team size/Budget, etc.]\n\nRoadmap should include:\n1. Vision and Strategy\n2. OKRs (Objectives and Key Results)\n3. Quarterly/Phased Focus (Themes, Key features, Expected results)\n4. Feature Prioritization (Impact vs. Effort, RICE scoring)\n5. Milestones\n6. Dependencies\n7. Risks\n8. Resource Allocation\n9. Measurement Metrics\n10. Optimization Items\n\nPlease provide:\n- Visual Roadmap suggestions\n- Stakeholder communication points",
+      "tags": ["PM"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T07:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440043",
+      "title": "Product Competitor Analysis Report",
+      "author": "@happycoder",
+      "content": "Please assist in conducting a product competitor analysis:\n\nOur Product: [Input product]\nCompetitors: [Input 2-3 main competitors]\nFocus: [Features/Experience/Business model, etc.]\n\nReport should include:\n1. Competitor Info (Background, Positioning, Target users)\n2. Feature Comparison (Comparison table, Unique features, Missing features)\n3. UX Analysis (Flow comparison, UI/UX pros/cons, Usability)\n4. Business Model (Pricing, Revenue)\n5. Market Performance (Scale, Growth, Reputation)\n6. Tech Architecture (if available)\n7. SWOT Analysis\n8. Our Opportunities\n9. Product Improvement Suggestions\n10. Strategic Advice",
+      "tags": ["PM"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T07:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440044",
+      "title": "Data Dashboard Planning",
+      "author": "@happycoder",
+      "content": "Please assist in planning a product data dashboard:\n\nType: [Web/App/SaaS, etc.]\nMain Goal: [Growth/Retention/Revenue, etc.]\nUsers: [PM/Management/Ops, etc.]\n\nDesign should include:\n1. Key Metrics Setting\n   **North Star Metric**\n   - Growth (DAU/MAU/New users)\n   - Engagement (Frequency/Duration)\n   - Retention (Day 1/7/30)\n   - Revenue (ARPU/LTV/CAC)\n   - Conversion (Funnel stages)\n2. Dashboard Hierarchy (Overview, Detailed feature analysis, Behavior analysis)\n3. Visualization Suggestions (Chart types, Layout)\n4. Alert Mechanisms\n5. Update Frequency\n6. Segmentation (Platform/Region/User type)\n7. Data Source and Logic\n8. Implementation Tool Suggestions",
+      "tags": ["PM"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T08:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440045",
+      "title": "Code Review Checklist",
+      "author": "@happycoder",
+      "content": "Please assist in establishing a code review checklist:\n\nLanguage: [Input language]\nType: [Web/Mobile/Backend, etc.]\nTeam Size: [Input count]\n\nChecklist should include:\n1. Functionality (Specs compliance, Edge cases, Error handling)\n2. Quality (Naming, DRY principle, Single responsibility, Comments)\n3. Performance (Time/Space complexity, DB query optimization, Caching)\n4. Security (Input validation, SQLi/XSS protection, Sensitive data)\n5. Maintainability (Clear structure, Testability, Docs)\n6. Test Coverage (Unit, Integration)\n7. Version Control (Commit messages, Branching strategy)",
+      "tags": ["Coding"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T08:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440046",
+      "title": "Technical Documentation Writing",
+      "author": "@happycoder",
+      "content": "Please assist in writing technical documentation:\n\nType: [API Doc/Architecture/Deployment guide, etc.]\nReader: [Devs/Ops/Newcomers, etc.]\nTech Stack: [Input tech]\n\nDoc should include:\n1. Overview (Purpose, Target, Prerequisites)\n2. Functionality Overview\n3. Architecture Design (System diagram, Data flow, Tech selection)\n4. Detailed Specs (RESTful endpoints, Request/Response, Error codes, Data models)\n5. Code Examples (Scenarios, Best practices)\n6. Environment Setup (Dev env, Deployment)\n7. Testing Guide\n8. Troubleshooting\n9. Change Log\n10. Related Resources",
+      "tags": ["Coding"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T09:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440047",
+      "title": "Refactoring Proposal",
+      "author": "@happycoder",
+      "content": "Please assist in planning a code refactoring proposal:\n\nScope: [Module/Feature/System]\nIssues: [Performance/Maintainability/Scalability, etc.]\nBusiness Impact: [Input impact]\n\nProposal should include:\n1. Current Analysis (Tech debt assessment, Pain points, Data support)\n2. Goals (Improvements, Expected benefits)\n3. Scope (Impacted vs. Unchanged areas)\n4. Technical Solution (Big Bang vs. Incremental, Design patterns, Tech selection)\n5. Risk Assessment (Tech/Business risk, Mitigation)\n6. Implementation Plan (Phases, Timeline, Resources)\n7. Testing Strategy\n8. Rollback Plan\n9. Cost-Benefit Analysis\n10. Success Metrics",
+      "tags": ["Coding"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T09:30:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440048",
+      "title": "Performance Optimization Plan",
+      "author": "@happycoder",
+      "content": "Please assist in planning a performance optimization plan:\n\nSystem Type: [Web/API/Database, etc.]\nIssue: [Slow response/Concurrency/Memory leak, etc.]\nCurrent Metrics: [Input data]\nTarget Metrics: [Input target]\n\nOptimization plan should include:\n1. Diagnosis (Profiling analysis, Bottleneck identification)\n2. Optimization Strategy (Frontend/Backend/DB/Infra)\n3. Specific Measures\n4. Phased Implementation\n5. Risk Control\n6. Verification Plan",
+      "tags": ["Coding"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T10:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440049",
+      "title": "System Architecture Design",
+      "author": "@happycoder",
+      "content": "Please assist in designing a system architecture:\n\nProject: [Input name]\nRequirements: [Scale/Availability/Security, etc.]\nTech Preferences: [Input tech]\n\nDesign should include:\n1. Requirements Analysis\n2. High-level Architecture (Diagram, Components)\n3. Module Design\n4. Data Architecture (DB selection, Schema design)\n5. Interface Design\n6. Security Architecture\n7. Deployment Architecture (Cloud/On-prem, Scalability)\n8. Reliability Design (HA, Backup)\n9. Cost Estimation",
+      "tags": ["Coding"],
+      "link": "https://www.happycoder.org/resources/prompts",
+      "createdAt": "2026-01-16T10:30:00Z"
+    }
+  ]
+}
